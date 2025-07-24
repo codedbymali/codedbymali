@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">Full Stack Developer | Expert in PHP, Laravel, CodeIgniter | React JS</h3>
+<h3 align="center">Full Stack Developer | Expert in PHP, Laravel, CodeIgniter | Node.js | React JS</h3>
 
 <p align="center">
   <a href="https://github.com/codedbymali"><img src="https://komarev.com/ghpvc/?username=codedbymali&label=Profile%20views&color=0e75b6&style=flat" alt="codedbymali" /></a>
@@ -11,7 +11,7 @@
 
 - 💼 I specialize in **full stack web development** with deep experience in:
   - PHP, Laravel, CodeIgniter
-  - React.js, Next.js
+  - React.js, Next.js, Node.js
   - RESTful APIs, MySQL, MongoDB
 - 🎯 I'm passionate about building tools that **simplify workflows** and improve **user experience**
 - 💬 Ask me about anything related to **Laravel**, **React**, or **building scalable web apps**
