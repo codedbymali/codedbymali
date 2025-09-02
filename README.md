@@ -51,6 +51,7 @@
 
 - 💼 LinkedIn: [linkedin.com/in/codedbymali](https://linkedin.com/in/codedbymali)
 - 🐦 Twitter/X: [@codedbymali](https://x.com/codedbymali)
+- 💼 [Upwork](https://www.upwork.com/freelancers/codedbymali) 
 
 ---
 
