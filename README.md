@@ -32,7 +32,7 @@
 ---
 ## 🔗 My Projects
 - [Toolkit.law](https://www.toolkit.law) — 1,500+ tools & calculators for legal professionals  
-- [Pro Math Tools](https://promathtools.com) — Math utilities & educational resources  
+- [ProMathTools](https://promathtools.com) — Math utilities & educational resources  
 - [GitHub Projects](https://github.com/codedbymali) — Explore all my repositories 
 
 ### 📈 GitHub Stats
