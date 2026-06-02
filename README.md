@@ -31,7 +31,7 @@
 
 ---
 ## 🔗 My Projects
-- [Toolkit.law](https://www.toolkit.law) — 1,500+ tools & calculators for legal professionals  
+- [Toolkit.law](https://www.lawwiz.com) — 1,500+ tools & calculators for legal professionals  
 - [ProMathTools](https://promathtools.com) — Math utilities & educational resources  
 - [GitHub Projects](https://github.com/codedbymali) — Explore all my repositories 
 
