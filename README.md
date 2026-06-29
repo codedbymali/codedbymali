@@ -33,7 +33,6 @@
 ## 🔗 My Projects
 - [LawWiz](https://www.lawwiz.com) — 1,000+ tools & calculators for legal professionals  
 - [ProMathTools](https://promathtools.com) — Math utilities & educational resources  
-- [KruskalCode](https://kruskalcode.com)
 - [GitHub Projects](https://github.com/codedbymali) — Explore all my repositories 
 
 ### 📈 GitHub Stats
